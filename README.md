@@ -59,7 +59,7 @@ The United States dominates global movie production at **76%** of the dataset, w
 
 ## 📁 Repo Contents
 
-- `Movies Industry Insight.xlsx` — the Excel file
+- `B3.xlsx` — the Excel file
 - `dashboard-preview1.png` — screenshot of the finished dashboard
 - `README.md` — this file
 
